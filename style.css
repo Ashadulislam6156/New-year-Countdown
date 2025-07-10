@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+    position: relative;
+   
+}
+.container{
+  text-align: center;
+  width: 100%;
+}
+.container h3{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: cursive;
+    color: lightcyan;
+}
+.container h1{
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: lightcyan;
+}
+.container2{
+    background-color: lightslategray;
+    text-align: center;
+}
+.Count-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    width: 100%;
+    background-color: lightslategray;
+    margin-top: 40px;
+}
+
+.nums-style{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: -20px;
+    color: lightcyan;
+
+}
+.texts-style{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: cursive;
+    color: lightcyan;
+    text-transform: capitalize;
+    /* text-align: center; */
+   
+
+}
+.container2 .Count-h1{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: lightyellow;
+    font-weight: bolder;
+    padding-top: 40px;
+    
+    
+    
+}
